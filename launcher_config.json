@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.20.13560",
+	"clientVersion": "13.20.13561",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
-	"clientExecutable": "client.exe"
+	"clientFolder": "DraconiaOt.Client",
+	"newClientUrl" : "https://github.com/jbracovich/DraconiaOT-Launcher/releases/download/DraconiaOT/DraconiaOT.Client.rar",
+	"clientExecutable": "DraconiaOT.exe"
 }
